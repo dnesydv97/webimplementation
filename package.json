@@ -2,6 +2,7 @@
   "name": "WebDemoProject",
   "version": "0.0.1",
   "private": true,
+  // https://retool.com/blog/how-to-make-your-react-native-apps-work-on-the-web
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
